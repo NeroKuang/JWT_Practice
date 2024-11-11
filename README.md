@@ -21,7 +21,7 @@
 1. 克隆項目：
 
 ``` bash
-git clone <repository-url>
+git clone git@github.com:NeroKuang/JWT_Practice.git
 ```
 
 2. 安裝依賴：
